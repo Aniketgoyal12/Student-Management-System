@@ -26,22 +26,6 @@ Welcome to the Student Management System repository! This project is built using
 4. Start the backend and frontend servers using appropriate commands.
 5. Access the Student Management System through your web browser.
 
-## How to Contribute
-
-If you're interested in contributing to this project, feel free to:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and submit a pull request.
-- Discuss ideas or improvements in the Issues section.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-We'd like to express our gratitude to the open-source community and the contributors who helped shape this project.
 
 ---
 
